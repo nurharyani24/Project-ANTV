@@ -40,6 +40,7 @@ a.judul-halaman{
 	color: #000;
 }
 
+
 /*
 #header{
 	height:105px;
@@ -47,8 +48,7 @@ a.judul-halaman{
 */
 #header #logo{
 	width:400px;
-	float:left;
-	
+	float:left;	
 }
 #header #share{
 	width:70px;
@@ -92,7 +92,7 @@ a.judul-halaman{
 }
 
 #banner_web_in{
-	height:374px;
+	height:auto;
 	margin:0 0 0 0;
 }
 
@@ -105,7 +105,7 @@ a.judul-halaman{
 	line-height:18px;
 }
 #isi{
-	position:relative;
+	position:center;
 	overflow:hidden;
 	width:auto;
 	margin:15px auto;
